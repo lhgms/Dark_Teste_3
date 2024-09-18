@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://croct.com">
-        <img src="https://github.com/lhgms/Dark_Teste_3/blob/1ec856c41e8081edad5004d0a41ef64c5f9a541e/Cover_dark_Teste9.png" width="830"/>
+        <img src="https://github.com/lhgms/Dark_Teste_3/blob/08e3064f4277ee25c66852c8190b99cb005f7b1e/Readme_Dark_3.png" width="830"/>
         <h3 align="center">Admin</h3>
     </a>
 </p>
@@ -22,7 +22,7 @@
 </br>
 </br>
 
-# Instructions
+## Instructions
 Follow the steps below to create a new repository:
 
 1. Customize the repository
